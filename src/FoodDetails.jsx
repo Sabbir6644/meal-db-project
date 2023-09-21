@@ -29,5 +29,5 @@ const FoodDetails = () => {
           </div>
      );
 };
-
+  
 export default FoodDetails;
